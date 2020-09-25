@@ -1,12 +1,12 @@
 # GitTut
-**GIT Short Tutorial for University students**
+##GIT Short Tutorial for University students##
 
 Branching + Remote Repository
 
-We can choose 3 areas:
-*working directory* - katalog roboczy
-*stage area* - przechowalnia
-*.git folder* - repozytorium
+We can choose 3 areas:/n
+*working directory* - katalog roboczy/n
+*stage area* - przechowalnia/n
+*.git folder* - repozytorium/n
 
 **Main actions:**
 
