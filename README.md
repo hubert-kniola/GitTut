@@ -8,20 +8,18 @@ We can choose 3 areas:
 *stage area* - przechowalnia
 *.git folder* - repozytorium
 
-Main actions:
+**Main actions:**
 
-                       git add.
-working directory     --------->    stage area
-
-                      git commit
-  stage area          --------->    .git folder
-  
-                      git checkout
-  .git folder         --------->    working directory
+                       
+working directory     -----git add.---->    stage area
+             
+  stage area          -----git commit---->    .git folder
+                
+  .git folder         -----git checkout---->    working directory
   
 
-File Status:
+**File Status:**
 
-         git add       git commit
-modified ------> staged ------> comitted
+                
+modified ---git add---> staged ---git commit---> comitted
 
