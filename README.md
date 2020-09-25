@@ -1,5 +1,5 @@
 # GitTut
-##GIT Short Tutorial for University students##
+##GIT Short Tutorial for University students
 
 Branching + Remote Repository
 
